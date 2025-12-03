@@ -1,0 +1,1 @@
+FROM cgr.dev/chainguard/go:latest@sha256:292b0a58c20b6bc88e50af362e5ef3d66a73eca9b77535ed245c5d7df073baa8
